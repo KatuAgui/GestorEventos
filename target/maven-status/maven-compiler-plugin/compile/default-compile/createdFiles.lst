@@ -1,0 +1,5 @@
+com\mycompany\gestiondeeventos\EventoOnline.class
+com\mycompany\gestiondeeventos\Evento.class
+com\mycompany\gestiondeeventos\Asistente.class
+com\mycompany\gestiondeeventos\EventoPresencial.class
+com\mycompany\gestiondeeventos\Principal.class
